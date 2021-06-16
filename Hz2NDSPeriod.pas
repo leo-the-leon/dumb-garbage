@@ -14,5 +14,4 @@ begin
 	writeln('Enter frequency in hz: ');
 	readln (HzFreq);
 	writeln('Calculated NDS period: ', NDSFreq div HzFreq);
-	readln;
 end.

@@ -13,5 +13,5 @@ var
 begin
 	writeln('Enter frequency in hz: ');
 	readln (HzFreq);
-	writeln('Calculated NDS period: ', NDSFreq div HzFreq);
+	writeln('Calculated Nintendo DS period: ', NDSFreq div HzFreq);
 end.
